@@ -1,0 +1,23 @@
+youtube api key: AIzaSyDLxdkAoPEq_7O3GIEVsz7vhGPmt1ffXtY
+
+url: https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=5&q=skyrim%20how%20to%20get%20dragon%20rider%20achievement&key=AIzaSyDLxdkAoPEq_7O3GIEVsz7vhGPmt1ffXtY
+
+Accept: application/json
+
+Authorization: Bearer [YOUR_ACCESS_TOKEN]
+Accept: application/json
+
+
+-------------------------------------------------------
+
+steam api key: 4399471167F94DE26086BBE4088FF0A5
+
+my steam ID
+https://steamcommunity.com/profiles/76561198103111964/
+
+
+get owned games
+
+Url: http://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=4399471167F94DE26086BBE4088FF0A5&steamid=76561198103111964&format=json
+
+https://steamcommunity.com/profiles/76561198103111964/
