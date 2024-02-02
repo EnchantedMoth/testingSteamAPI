@@ -6,7 +6,7 @@
 //     console.log(data);
 // })
 
-fetch("http://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=4399471167F94DE26086BBE4088FF0A5&steamid=76561198103111964&format=json").then(res => res.json()).then(data=>{
+fetch("https://api.steampowered.com/IPlayerService/GetOwnedGames/v0001/?key=4399471167F94DE26086BBE4088FF0A5&steamid=76561198103111964&format=json").then(res => res.json()).then(data=>{
     console.log(data);
 })
 
